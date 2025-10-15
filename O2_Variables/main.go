@@ -87,7 +87,7 @@ func main(){
 
 	// jwttoken example 
 	fmt.Println(JwtToken_Example);
-		fmt.Printf("Variable is of type : %T \n",JwtToken_Example);
+	fmt.Printf("Variable is of type : %T \n",JwtToken_Example);
 
 
 
