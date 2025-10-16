@@ -19,11 +19,11 @@ func main(){
 	// comma ok  || error err
 	input, _ := reader.ReadString('\n');
 	fmt.Print("Thanks for the rating ",input);
-	fmt.Printf("Type of the rating is %T ",input);
+	fmt.Printf("Type of the rating is %T \n",input);
 	// print , printf nd println 
 	// comma error syntax 
 	// _ , err := reader.ReadString('\n'); -- like this also works
-	
+
 
 
 	
